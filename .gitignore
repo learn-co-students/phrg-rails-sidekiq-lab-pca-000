@@ -1,10 +1,7 @@
-.rspec
 /log
 /tmp
 /db/*.sqlite3
 /db/*.sqlite3-journal
 /public/system
 /spec/tmp
-Gemfile.lock
-.ruby-version
 .ruby-gemset
